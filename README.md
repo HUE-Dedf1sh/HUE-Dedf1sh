@@ -1,10 +1,9 @@
-
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+nice+to+meet+you!;I'm+4g-13Eh.;⑨)](https://git.io/typing-svg)
 <p align="left">I'm a student from Zurich and an aspiring software engineer. I'm currently learning Java, Spring Boot & TypeScript.</p><br>
 
 <h3 align="left">Languages & Technologies:</h3>
 <div style="vertical-align: top; display: inline-block;text-align: center;">
-  <a href="https://x.com/Kasuya_Baian"><img align="right" src="https://i.ibb.co/jVVRM2q/cirno-drawn-by-kasuya-baian.png" alt="cirno-drawn-by-kasuya-baian" border="0" width="400"/></a>
+  <a href="https://x.com/Kasuya_Baian/status/1641621253235830784"><img align="right" src="https://i.ibb.co/jVVRM2q/cirno-drawn-by-kasuya-baian.png" alt="cirno-drawn-by-kasuya-baian" border="0" width="400"/></a>
 </div>
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div align="left">
